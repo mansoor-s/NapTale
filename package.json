@@ -1,0 +1,11 @@
+{
+    "name": "naptale",
+    "version": "0.0.1",
+    "dependencies": {
+        "firefly": "latest",
+        "firefly-handlebars": "latest",
+        "mongoskin": "latest",
+        "async": "latest"
+    }
+}
+
