@@ -21,7 +21,7 @@
 var cluster         = require( 'cluster' );
 var numCPUs         = require('os').cpus().length;
 
-var Firefly         = require( '/home/mansoor/projects/Firefly/Firefly/index.js' );
+var Firefly         = require( 'firefly' );
 var AppConfig       = require( './AppConfig.js' );
 var routes          = require( './Routes.js' );
 
